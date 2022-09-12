@@ -6,6 +6,6 @@ A pure html and css mini-project of an airplane that takes off at the click of t
 - HTML
 - CSS
 
-#Online projet
+# Online projet
 
 https://elazzouzinordinebecode.github.io/airplane/
